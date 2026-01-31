@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: Bio
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+No dia a dia, resolvo chamados como Agente de Service Desk enquanto curso Sistemas de Informação. Nas horas vagas (e nos estudos), troco os tickets por algoritmos de Machine Learning. Meu objetivo é migrar do suporte reativo para a criação de soluções inteligentes e orientadas a dados.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<br>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+🔗GitHub: [IvanMath](https://github.com/IvanMath)
 
-
-[jekyll-organization]: https://github.com/jekyll
+🔗Linkedin: [IvanMath](https://www.linkedin.com/in/ivan-matheus/)
