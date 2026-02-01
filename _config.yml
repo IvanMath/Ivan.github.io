@@ -22,8 +22,8 @@ title: IvanMath
 email: ivanmath69@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Anotações sobre estudos diversos, com foco atual em Machine Learning.
-baseurl: "https://IvanMath.github.io" 
-url: "/Ivan.github.io"
+baseurl: "/Ivan.github.io"
+url: "https://IvanMath.github.io"
 twitter_username: oSid___
 github_username:  IvanMath
 
