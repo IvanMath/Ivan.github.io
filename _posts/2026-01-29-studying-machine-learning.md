@@ -20,7 +20,7 @@ e conjunto de teste. O recomendado é seguir o padrão abaixo:
 
 Um exemplo de como ficaria no código:
 
-![Exemplo Splitting the Dataset]({{ site.baseurl }}assets/img/splitting_the_dataset.png)
+![Exemplo Splitting the Dataset]({{ site.baseurl }}/assets/img/splitting_the_dataset.png)
 
 * X, y: Seus dados (características e alvo).
 * test_size=0.2: Define que 20% dos dados serão guardados para teste.
